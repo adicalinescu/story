@@ -8,7 +8,7 @@ To install the project, run:
 poetry install
 
 ## Usage
-To use the project, follow these steps:
+To use the project:
 run graph.py
 
 ## License
