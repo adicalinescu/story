@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "story"
+version = "0.1.0"
+description = ""
+authors = ["Adrian Calinescu <adrian_calinescu@yahoo.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+langgraph = "^0.2.53"
+langchain = "^0.3.9"
+langchain-google-vertexai = "^2.0.8"
+flask = "^3.1.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
